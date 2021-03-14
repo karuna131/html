@@ -1,0 +1,39 @@
+.box{
+    background-color: lightblue;
+    width: 40%;
+    height: 600px;
+    color:blue;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 100px; 
+    border: 3px solid burlywood;
+}
+.font{
+    font-size: 50px;
+}
+
+.size{
+    width: 350px;
+    height: 40px;
+    padding-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.size2{
+    width: 28%;
+    height: 42px;
+    background-color: green;
+    color: whitesmoke;
+    border-radius: 25px;
+    border: 2px solid black;
+
+}
+.size3{
+    height: 40px;
+    width: 34%;
+    color: rgb(252, 251, 250);
+    background-color: blue;
+    border-radius: 25px;
+    border: 2px solid black;
+}
